@@ -6,7 +6,7 @@ I followed a course of Mustafa Murat Coşkun on Udemy to build the project.
 You need to install;
 
   * Scrapy Framework (pip install scrapy) 
-  * You would need to install Scrapy Framework to your conda environment. To do that, check out the documentation(https://docs.scrapy.org/en/latest/intro/install.html)
+  * You might need to install Scrapy Framework to your conda environment. To do that, check out the documentation(https://docs.scrapy.org/en/latest/intro/install.html)
   
 
 You need to write `scrapy crawl books` to run the code. 
