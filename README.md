@@ -1,5 +1,6 @@
 # Scrapy-BestSellerBooks-in-Kitapyurdu
 Taking the info of first 60 best seller books that are sold in "kitapyurdu.com" (Learn-by-doing mini project)
+
 I followed a course of Mustafa Murat Coşkun on Udemy to build the project.
 
 You need to install;
