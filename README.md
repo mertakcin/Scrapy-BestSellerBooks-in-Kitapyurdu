@@ -9,7 +9,7 @@ You need to install;
   * You might need to install Scrapy Framework to your conda environment. To do that, check out the documentation(https://docs.scrapy.org/en/latest/intro/install.html)
   
 
-You need to write `scrapy crawl books` to run the code. 
+You need to write `scrapy crawl books`in terminal (make sure that you are in the directory that project exists) to run the code. 
 * "books" represents the name of the spider.
 
 + book_spider.py = This script will create a txt file that contains the info of 60 best seller books in "kitapyurdu.com"
